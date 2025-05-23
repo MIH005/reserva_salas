@@ -116,7 +116,3 @@ reserva-salas/
 - Autenticação de usuários
 
 ---
-
-## 🧑‍💻 Autor
-
-Caio Ireno – Projeto educativo de arquitetura com Flask e microsserviços.
